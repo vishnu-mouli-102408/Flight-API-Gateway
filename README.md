@@ -4,6 +4,8 @@
 
 The Airline Management API Gateway Service is a central component in the microservices architecture for handling communication between various microservices, including Flight Search Service, Flight Auth Service, Flight Reminder Service, and Flight Booking Service. It serves as a single entry point for managing requests and responses, incorporating essential features such as rate limiting, auto scaling, load balancing, logging, and HTTP proxying.
 
+Know more about Backend Folder Structure for Microservice Architecture. [Click here](https://github.com/vishnu-mouli-102408/Backend-Folder-Structure)
+
 ## Microservices Architecture
 
 The API Gateway orchestrates communication among the following microservices:
